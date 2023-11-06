@@ -11,7 +11,7 @@
   Sou graduada em administração e pós-graduada em gerenciamento de projetos.
  Durante o período de pandemia iniciei uma nova jornada em minha vida e atualmente estudo análise e desenvolvimento de sistemas, agregando novos cohhecimentos na área de tecnologia e trazendo sempre o conhecimento adquirido nas áreas de gestão como suporte e implemento à esta nova etapa. 🚀
   
-  A constância é mais robusta e sensata do que a pressa.
+  
   
 
  </p>
