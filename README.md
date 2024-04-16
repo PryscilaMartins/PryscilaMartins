@@ -9,7 +9,7 @@
   
   
   Sou graduada em administração e pós-graduada em gerenciamento de projetos.
- Durante o período de pandemia iniciei uma nova jornada em minha vida e atualmente estudo análise e desenvolvimento de sistemas, agregando novos cohhecimentos na área de tecnologia e trazendo sempre o conhecimento adquirido nas áreas de gestão como suporte e implemento à esta nova etapa. 🚀
+ Durante o período de pandemia iniciei uma nova jornada e atualmente estudo análise e desenvolvimento de sistemas pela Puc Minas, agregando novos saberes na área de tecnologia e inovação trazendo sempre na bagagem o conhecimento em gestão como suporte e implemento a esta nova etapa. 🚀
   
   
   
@@ -31,7 +31,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/PryscilaMartinsAbbott/)](https://github.com/PryscilaMartinsAbbott/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/PryscilaMartinsAbbott/)](https://github.com/PryscilaMartinsAbbott/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/PryscilaMartinsAbbott/)](https://github.com/PryscilaMartinsAbbott/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/PryscilaMartinsAbbott/)](https://github.com/PryscilaMartinsAbbott/)
+
     
 </p>
 
