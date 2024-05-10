@@ -8,7 +8,7 @@
 <p align="left"> 
   
   
-  Sou graduada em administração e pós-graduada em gerenciamento de projetos.
+
  Durante o período de pandemia iniciei uma nova jornada e atualmente estudo análise e desenvolvimento de sistemas pela Puc Minas, agregando novos saberes na área de tecnologia e inovação trazendo sempre na bagagem o conhecimento em gestão como suporte e implemento a esta nova etapa. 🚀
   
   
